@@ -1,4 +1,4 @@
-[
+{"results":[
         {
           id: 1,
           title: 'Product 1',
@@ -60,3 +60,4 @@
           image: 'https://lorempixel.com/400/200/nature/5/',
         },
       ]
+}
